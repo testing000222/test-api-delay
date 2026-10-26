@@ -1,0 +1,9 @@
+{
+  "name": "api-usuario-lenta",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API de testes com usuários fictícios e latência de 2 a 3 minutos",
+  "type": "module",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
